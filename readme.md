@@ -4,12 +4,12 @@
 
 | Detail                   | Information                                                          |
 | ------------------------ | -------------------------------------------------------------------- |
-| **Name**                 | Pranav Ethapay                                                       |
-| **USN / Student ID**     | R25EQ058                                                             |
+| **Name**                 | Mohith Pranesh VP                                                       |
+| **USN / Student ID**     | R25EF152                                                             |
 | **Semester**             | 3rd Semester                                                         |
 | **Programming Language** | Java                                                                 |
-| **HackerRank Profile**   | https://www.hackerrank.com/profile/pranavethapay201                  |
-| **GitHub Repository**    | https://github.com/pranave2007/HackerRank-3rdSem-Algorithm-Portfolio |
+| **HackerRank Profile**   | https://www.hackerrank.com/profile/mrmohithpranesh               |
+| **GitHub Repository**    | https://github.com/mohith/HackerRank-3rdSem-Algorithm-Portfolio |
 
 ---
 
